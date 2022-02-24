@@ -1,5 +1,4 @@
 ---
-
 1. Write a recursive function to determine whether all digits of the number are odd or not.
 
 | Input   | Output |
@@ -9,7 +8,6 @@
 | 5       | true   |
 
 Here is the [solution](1.odd_or_even.js)
-
 ---
 
 2. Given an array of numbers. Write a recursive function to find its minimal positive
@@ -84,3 +82,7 @@ Here is the [solution](6.rotate.js)
 Here is the [solution](7.sum.js)
 
 ---
+
+8. Implement merge sort
+
+Here is the [solution](8.merge_sort.js)
