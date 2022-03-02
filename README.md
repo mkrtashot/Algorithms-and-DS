@@ -86,3 +86,9 @@ Here is the [solution](7.sum.js)
 8. Implement merge sort
 
 Here is the [solution](8.merge_sort.js)
+
+---
+
+9. Array copy function
+
+Here is the [solution](9.array_copy.js)
